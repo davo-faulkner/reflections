@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, a hidden file named .git is created in the repository root containing log metadata.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows you to filter the files in your working directory so that the commit reflects a logical change.
