@@ -5,3 +5,19 @@ When you initialize a repository, a hidden file named .git is created in the rep
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It allows you to filter the files in your working directory so that the commit reflects a logical change.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can compare the difference between the staging area, working directory, and latest commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you wish to create a different version of your code such as experimental features or new languages. You may also switch branches when you switch contexts (fix a bug, add a feature).
+
+How do the diagrams help you visualize the branch structure?
+
+It's quicker than viewing log files and writing down the branch structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You combine the commits of each branch into a new commit.
