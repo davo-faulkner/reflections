@@ -21,3 +21,7 @@ It's quicker than viewing log files and writing down the branch structure.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You combine the commits of each branch into a new commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto merging is faster but can assume incorrectly. Manual merging is slower but more accurate.
