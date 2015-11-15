@@ -13,3 +13,7 @@ Forks: GitHub only, clones: remote or local, branches: wherever parent commit re
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So that you can work offline (still a little fuzzy on the benefits).
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Given the features and flexibility of Git and GitHub, I can't imagine trying to collaborate without them... especially from remote locations.
